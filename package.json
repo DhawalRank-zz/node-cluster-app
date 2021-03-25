@@ -1,0 +1,19 @@
+{
+  "name": "node-cluster-app",
+  "version": "1.0.0",
+  "description": "Demo code for using multiple cores for a Node JS Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "keywords": [
+    "Optimization",
+    "NodeJS"
+  ],
+  "author": "Dhawal Rank",
+  "license": "ISC"
+}
